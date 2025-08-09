@@ -1,4 +1,4 @@
-🔒 Password Strength Checker GUI
+#🔒 Password Strength Checker GUI
 
 A sleek and user-friendly PyQt5 application that evaluates password strength in real-time, detects breaches, and provides actionable suggestions — designed for security-conscious users and beginner developers alike.
 Project Overview
