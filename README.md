@@ -40,7 +40,7 @@ Built with Python and PyQt5, it bridges backend security logic with polished fro
 2. (Recommended) Create and activate a Python virtual environment.
 
 3. Install required packages:  
-   `pip install -r requirements.txt`
+   `pip install -r requirement.txt`
 
 4. Run the application:  
    `python gui/window.py`
